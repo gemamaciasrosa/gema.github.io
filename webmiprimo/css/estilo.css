@@ -1,0 +1,77 @@
+html{
+    background:rgb(71, 71, 252);
+}
+
+body{
+    width: 90%;
+    margin: 0 auto;
+    font-family: arial;
+    font-size: small;
+}
+
+nav ul li{
+    display: inline-block;
+    padding-left: 30px;
+}
+ul li {
+    list-style:none;
+}
+
+a{
+    text-decoration: none;
+}
+
+nav{
+    background:url(../img/papel_cuadritos.png);
+    height: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+header{
+    background-color: rgb(167, 197, 253); 
+    height: 220px; 
+    margin-bottom: -20px; 
+    padding-left: 15px;
+    padding-top: 5px;
+}
+
+#plans{
+    float: right;
+    padding-left: 500px;
+}
+
+#main{
+    background: rgb(255, 255, 255);
+    margin-bottom: -18px;
+}
+
+#content{
+    width: 900px;
+    float: right;
+    border-left: solid 3px;
+    padding-left:40px ;
+    padding-bottom: 230px;
+    border-color: rgb(71, 71, 252);
+}
+
+#sidebar{
+    width: 500px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+#ima{
+    padding-left: 8px;
+}
+
+footer{ 
+    background-color: rgb(167, 197, 253);
+}
+
+footer aside{
+	display: inline-block;
+   	padding-left: 50px;
+    padding-top: 10px;
+}
+

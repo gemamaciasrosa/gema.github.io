@@ -1,0 +1,225 @@
+table{width: 100%;
+    border-collapse: collapse;
+}
+td{border: 2px solid black;
+    }
+
+@font-face{
+   font-family:letra1;
+   src: url(../font/letra1.ttf) format('truetype');
+}
+@font-face{
+	font-family:letra2;
+	src: url(../font/letra2.otf) format('opentype');
+}
+
+@font-face{
+	font-family:letra3;
+	src: url(../font/letra3.otf) format('opentype');
+}
+
+@font-face{
+	font-family:letra4;
+	src:url(../font/letra4.otf) format('opentype');
+}
+@font-face {
+	font-family: letra5;
+	src: url(../font/letra5.ttf) format('truetype');
+}
+
+@font-face {
+	font-family: letra6;
+	src: url(../font/letra6.ttf) format('truetype');
+}
+
+@font-face {
+	font-family: letra7;
+	src: url(../font/letra7.otf) format('opentype');
+}
+
+@font-face {
+	font-family: letra8;
+	src: url(../font/letra8.ttf) format('truetype');
+}
+
+@font-face {
+	font-family: letra9;
+	src: url(../font/letra9.ttf) format('truetype')
+}
+
+@font-face {
+	font-family: letra10;
+	src: url(../font/letra10.ttf) format('truetype');
+}
+
+@font-face {
+	font-family: letra11;
+	src: url(../font/letra11.ttf) format('truetype');
+}
+
+@font-face {
+	font-family: letra12;
+	src: url(../font/letra12.ttf) format('truetype');
+}
+
+@font-face {
+	font-family: letra13;
+	src: url(../font/letra13.ttf) format('truetype');
+}
+
+@font-face {
+	 font-family: letra14;
+	 src: url(../font/letra14.ttf) format('truetype');
+}
+
+@font-face { 
+	 font-family: letra15;
+	 src: url(../font/letra15.ttf) format('truetype');
+}
+
+@font-face {
+	 font-family: letra16;
+	 src: url(../font/letra16.ttf) format('truetype');
+}
+
+@font-face { 
+	  font-family: letra17;
+	  src: url(../font/letra17.otf) format('opentype');
+}
+
+@font-face { 
+      font-family: letra18;
+	  src: url(../font/letra18.ttf) format('truetype');
+}
+
+@font-face {
+	  font-family: letra19;
+	  src: url(../font/letra19.ttf) format('truetype');
+}
+
+@font-face {
+	  font-family: letra20;
+	  src: url(../font/letra20.ttf) format('truetype');
+}
+
+@font-face {
+	  font-family: letra21;
+	  src: url(../font/letra21.otf) format('opentype');
+}
+
+@font-face { 
+      font-family: letra22;
+	  src: url(../font/letra22.ttf) format('truetype');
+}
+
+@font-face {
+	   font-family: letra23;
+	   src: url(../font/letra23.otf) format('opentype');
+}
+
+@font-face {
+	  font-family: letra24;
+	  src: url(../font/letra24.otf) format('opentype');
+}
+
+@font-face {
+	  font-family: letra25;
+	  src: url(../font/letra25.otf) format('opentype');
+}
+
+@font-face {
+	  font-family: letra26;
+	  src: url(../font/letra26.otf) format('opentype');
+}
+
+@font-face {
+	  font-family: letra27;
+	  src: url(../font/letra27.ttf) format('truetype');
+}
+
+@font-face {
+	  font-family: letra28;
+	  src: url(../font/letra28.ttf) format('truetype');
+}
+
+@font-face {
+	  font-family: letra29;
+	  src: url(../font/letra29.ttf) format('truetype');
+}
+
+@font-face {
+	  font-family: letra30;
+	  src: url(../font/letra30.ttf) format('truetype');
+}
+
+.diassemana{font-family:letra1;
+	color: rgb(128, 0, 107);
+	background-color: rgb(131, 139, 5);
+}
+.diassemana2{font-family:letra13;
+	color: green;
+	background-color: rgb(190, 194, 199);
+}
+
+.diassemana3{font-family: letra8;
+	color: hotpink;
+	font-size: 30px;
+	background-color: steelblue;
+}
+
+.diassemana4{font-family: letra29;
+	color: rgb(0, 0, 0);
+	font-size: 30px;
+	background-color: violet;
+
+}
+
+.diassemana5{font-family: letra6;
+	color: blue;
+	font-size: 20px;
+	background-color: yellow;
+}
+
+.bbdd{font-family: letra3;
+	color: chocolate;
+	font-size: 20px;
+	background-color: lightgreen;
+}
+
+.lm{font-family: letra11;
+	color: red;
+	font-size: 20px;
+	background-color: papayawhip;
+}
+
+	
+.fh{font-family: letra7;
+	color: black;
+	font-size: 30px;
+	background-color: #f57569 ;
+}
+
+.redes{font-family: letra12;
+	   color: #10ad10;
+	   font-size: 30px;
+	   background-color: #fcbb49 ;
+}
+
+
+.fol{font-family: letra23;
+	 color: #000000;
+	 font-size: 30px;
+	 background-color: #31d4c6;
+}
+
+.iso{font-family: letra16;
+     color: #4034eb;
+	 font-size: 30px;
+	 background-color: #f882c3;
+}
+
+.recreo{font-family: letra13;
+	    color: #000000;
+		font-size: 30px;
+		background-color: #eeff00;
+}
